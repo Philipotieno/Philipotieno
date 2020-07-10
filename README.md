@@ -12,5 +12,5 @@ I am an ambitious and energetic software engineer with a demonstrated history of
 * Building Web applications using React and Django
 
 ## You can find me on
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/philipotieno/)<br>
 [Portfolio Website](https://philipotieno.github.io/)<br>
-[Linkedin](https://www.linkedin.com/in/philipotieno/)<br>
