@@ -9,8 +9,8 @@ I am an ambitious and energetic software engineer with a demonstrated history of
 * Full Stack Web Development
 
 ## Things I'm working on
-
 - 🔭 Building Web applications using React and Django
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipotieno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/philipotieno/github-readme-stats)
 ![stats](https://github-readme-stats.vercel.app/api?username=philipotieno&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
