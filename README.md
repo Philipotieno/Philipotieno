@@ -4,7 +4,7 @@
 
 I am a Software developer based in Nairobi, Kenya with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to learn, motivate, educate, and manage a team of developers to build software programs and effectively track changes.
 
-I work primarily with Python || Django Rest Framework || PostgreSQl
+I work primarily with Python || Django Rest Framework || PostgreSQL
 
 I'm always learning and seeking to use the right tool for the job at hand.
 
