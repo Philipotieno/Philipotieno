@@ -2,7 +2,7 @@
 
 ## My Name is Philip Mitchell Otieno
 
-I am a Software Engineer based in Nairobi, Kenya with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to learn, motivate, educate, and manage a team of developers to build software programs and effectively track changes.
+I am a Software Engineer, with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Skilled leader who has the proven ability to learn, motivate, educate, and manage a team of developers to build software programs and effectively track changes.
 
 I work primarily with Python || Django Rest Framework || FastAPI || PostgreSQL || React
 
