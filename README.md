@@ -6,6 +6,7 @@ I am a Software Engineer, with a passion for developing innovative programs that
 
 I work primarily with Python || Django Rest Framework || FastAPI || PostgreSQL || React
 
+Learning to work with Generative AI
 I'm always learning and seeking to use the right tools for the job at hand.
 
 📚I believe in life-long learning and knowledge sharing. I also deeply believe in the open-source movement and try to give back to the community whenever I can.
