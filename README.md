@@ -2,8 +2,9 @@
 
 I am a Software Engineer, with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. A skilled leader who has the proven ability to learn, motivate, educate, and manage a team of developers to build software programs and effectively track changes.
 
-Skills and Expertise
-Tech Stack: Python (Numpy, Tensorflow, Django, FastAPI, Scikit-Learn), PostgreSQL, SQL, JavaScript, HTML, CSS
+## Skills and Expertise
+### Tech Stack:
+Python (Numpy, Tensorflow, Django, FastAPI, Scikit-Learn), PostgreSQL, SQL, JavaScript, HTML, CSS
 
 Cloud: AWS (EC2, S3), GCP
 
