@@ -1,16 +1,15 @@
-## Hi there 👋
-
-## My Name is Philip Mitchell Otieno
+## Hi there, I'm Mitch 👋
 
 I am a Software Engineer, with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. A skilled leader who has the proven ability to learn, motivate, educate, and manage a team of developers to build software programs and effectively track changes.
 
-I work primarily with Python || Django Rest Framework || FastAPI || PostgreSQL || React
+Skills and Expertise
+Tech Stack: Python (Numpy, Tensorflow, Django, FastAPI, Scikit-Learn), PostgreSQL, SQL, JavaScript, HTML, CSS
 
-Learning to work with Generative AI
-I'm always learning and seeking to use the right tools for the job at hand.
+Cloud: AWS (EC2, S3), GCP
 
-📚I believe in life-long learning and knowledge sharing. I also deeply believe in the open-source movement and try to give back to the community whenever I can.
+Frameworks & Other: Git, Anaconda, Flask, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress
 
+Learning to work with Generative AI Models
 
 ## Things I'm working on
 - 🔭 
