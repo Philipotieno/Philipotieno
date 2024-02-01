@@ -1,14 +1,15 @@
-## Hi there, I'm Mitch 👋
+## Hi there, I'm [Mitch](https://www.linkedin.com/in/philipotieno/) 👋
 
 I am a Software Engineer, with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. A skilled leader who has the proven ability to learn, motivate, educate, and manage a team of developers to build software programs and effectively track changes.
 
-## Skills and Expertise
-### Tech Stack:
-Python (Numpy, Tensorflow, Django, FastAPI, Scikit-Learn), PostgreSQL, SQL, JavaScript, HTML, CSS
+### Skills and Expertise
+**Tech Stack:** Python (Numpy, Tensorflow, Django, FastAPI, Scikit-Learn), PostgreSQL, SQL, JavaScript, HTML, CSS
 
-Cloud: AWS (EC2, S3), GCP
+**Data Visualization:** Matplotlib, Seaborn, Pandas
 
-Frameworks & Other: Git, Anaconda, Flask, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress
+**Cloud:** AWS (EC2, S3), GCP
+
+Frameworks & Other: Git, Anaconda, Flask, Gunicorn, HAProxy, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress
 
 Learning to work with Generative AI Models
 
