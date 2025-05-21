@@ -39,11 +39,9 @@ I believe in building purposeful software — tools and systems that automate, s
 ## 📈 My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipotieno&layout=compact&theme=dark)](https://github.com/philipotieno/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=philipotieno&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=philipotieno&count_private=true&theme=tokyonight&showicons=true)]()
 
 ---
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 ## 🌐 Connect with Me
 
