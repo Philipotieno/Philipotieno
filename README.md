@@ -42,7 +42,7 @@ Git  |  CI/CD  |  Agile/Scrum  |  TDD  |  Vagrant  |  Bootstrap  |  WordPress
 ## 📊 GitHub Stats
 
 <a href="https://github.com/philipotieno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=philipotieno&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=philipotieno&show_icons=true&theme=radical&count_private=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipotieno&layout=compact&theme=radical" />
 </a>
 
