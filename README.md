@@ -46,8 +46,8 @@ I believe in building purposeful software — tools and systems that automate, s
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philipotieno/)  
-🔗 [Portfolio Website](https://philipotieno.github.io/)  
-📬 Email: [philipotieno.dev@gmail.com](mailto:philipotieno.dev@gmail.com)
+🔗 [Portfolio Website](https://linkedin.com/in/philipotieno)  
+📬 Email: [tmitchellb007@gmail.com](mailto:tmitchellb007@gmail.com)
 
 ---
 
